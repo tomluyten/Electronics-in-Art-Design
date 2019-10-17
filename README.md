@@ -15,9 +15,6 @@
 - [Floris.cc](http://www.floris.cc)
 - [Bits and parts](https://www.bitsandparts.eu/Home/c1)
 
-##3D printing
-- [3D hubs](https://www.3dhubs.com/)
-
 ## Fablabs
 - [Fab lab Maastricht](http://www.fablabmaastricht.nl/)
 - [Fab lab Genk](http://www.fablabgenk.be/)
@@ -28,3 +25,6 @@
 - [Whitespace Gent](http://0x20.be/Main_Page)
 - [mini fablab](http://www.minifablab.nl/)
 - [Imal](http://www.imal.org/nl)
+
+## 3D printing
+- [3D hubs](https://www.3dhubs.com/)
