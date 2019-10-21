@@ -9,7 +9,7 @@
 - [Iprototype](https://iprototype.nl/)
 - [vanallesenmeer](https://www.vanallesenmeer.nl/)
 - [tinytronics](https://www.tinytronics.nl/)
-- [Ben&#039;s electronics](https://benselectronics.nl/)
+- [Ben's electronics](https://benselectronics.nl/)
 - [Inventables](https://www.inventables.com/)
 - [Maker Pro](https://maker.pro/)
 - [Floris.cc](http://www.floris.cc)
@@ -28,4 +28,3 @@
 
 ## 3D printing
 - [3D hubs](https://www.3dhubs.com/)
-- 
