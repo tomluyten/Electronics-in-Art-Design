@@ -1,8 +1,14 @@
 # Link Repo for electronics in Design / Art
+
+## Arduino
 - [official Arduino website](http://www.arduino.cc)
 - [Arduino shield list](http://shieldlist.org/)
 - [Pneuduino](http://pneuduino.org/)
+
+## Other electronics platforms
 - [Axoloti](http://www.axoloti.com/)
+
+## Arduino tutorials / schematics
 - [Bildr](http://bildr.org/)
 
 ## (Dutch) shops
@@ -13,7 +19,7 @@
 - [Inventables](https://www.inventables.com/)
 - [Maker Pro](https://maker.pro/)
 - [Floris.cc](http://www.floris.cc)
-- [Bits and parts](https://www.bitsandparts.eu/Home/c1)
+- [Bits and parts](https://www.bitsandparts.eu)
 
 ## Fablabs
 - [Fab lab Maastricht](http://www.fablabmaastricht.nl/)
