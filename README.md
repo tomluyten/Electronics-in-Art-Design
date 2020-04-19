@@ -34,3 +34,7 @@
 
 ## 3D printing
 - [3D hubs](https://www.3dhubs.com/)
+
+## Arduino tutorials
+- [Interactief ontwerpen met Arduino]([https://sites.google.com/site/hwcontwerpen/interactief-ontwerpen-met-arduino](https://sites.google.com/site/hwcontwerpen/interactief-ontwerpen-met-arduino))
+
